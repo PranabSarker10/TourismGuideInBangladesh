@@ -1,0 +1,52 @@
+.nav{
+            width:100%;
+            background:#000033;
+            height:65px;
+        }          
+            ol{
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                overflow:hidden;
+            }
+            ol li{
+                float:left;
+                margin-top: 20px;
+            }
+            ol li a{
+                width: 130px;
+                color: bisque;
+                display: block;
+                text-decoration: none;
+                font-size: 15px;
+                text-align: center;
+                padding: 10px;
+                border-radius: 15px;
+                font-family: Century Gothic;
+                font-weight: bold;
+            }
+            a:hover{
+                background: #669900;
+            }
+            ol li ol{
+                background: #000033;
+            }
+            ol li ol li{
+                float: none;
+            }
+            ol li ol{
+                display: none;
+            }
+            ol li:hover ol{
+                display: block;
+            }
+        .search{
+              width:200px;
+              padding: 5px;
+              border-radius: 10px;
+              border: none;
+              border: 1px solid blue;
+              font-size: 17px;
+              text-align: center;
+              margin-top: 0px;
+        }

@@ -1,0 +1,94 @@
+<html>
+     <head>
+          <style>
+          h1{color:navy;}
+          p{color:gray;}
+          h2{color:red;} 
+          h3{color:purple;}
+          .English{color:orange;}
+          #Bangla{color: yellow;}
+          div{
+              border:5px solid green;
+              margin:15px;
+              padding:20px;
+              border-radius:12px;
+              background-color:pink;
+              width:1150px;
+
+          }
+          </style>
+     </head>
+
+     <body>
+          <div>
+               <h2> Top 14 Interesting Natural Tourist Place of Chittagong() </h2>
+                <h3> 
+                    Chittagong is consisted by 11 districts. They are :
+                   <ul>
+                       <li> Bandarban </li>
+                       <li> Brahmanbaria </li>
+                       <li> Chandpur </li>
+                       <li> Chittagong </li>
+                       <li> Comilla </li>
+                       <li> Cox's Bazar </li>
+                       <li>	Feni </li>
+                       <li>	Khagrachhari </li>
+                       <li>	Lakshmipur </li>
+                       <li> Noakhali </li>
+                       <li> Rangamati </li>
+                 </ul>   
+
+               </h3>
+               <p class = "English">
+               </p>
+               <ul>
+                   <li> Keokradong,Bandorban() </li>
+                   <img src="Keokradong.jpg"height=440px width=850px> </img>
+                   <p></p>
+                   The fifth highest mountain (1230 meters) of Bangladesh, Keokaradong is located in 30km away from the Ruma sadar Upazilla in Bandarban.
+                   <ul>
+                       <li> This place is full of beauty where you can see big and small mountains and hills. The area is enriched with dense forest, birds and animals. </li>
+                       <li> You’ll be charmed by the dazzling green hill, zigzag path, cool fountains,hide and seek game of the clouds,hilly roads side on the top of the hill. </li>
+                       <li> White clouds covered all around  during the rain and golden ray at the evening is the best moment in keokradong.It’s not possible to describe the sun rise and the night of the Keokradong if you never see it. The night is very cold, you’ll need double blanket. </li>
+                   </ul>
+                   <p></p>
+                   You’ve to walk 14km to reach the highest peak. You’ll find a tiny village named darjeeling para 1km away from the highest peak. When you’ll reach the highest peak, you’ll feel a great achievement.
+                   <p></p>
+                   It’s a laborious job, so you need to have patience all the way long walking. Bring sufficient amount of saline water and first aid. Finally, behave properly with the local people then you’ll have great help at the time of need.  
+                   <p></p>
+                   <li>Nijhum deep, Hatia,Noakhali.() </li> 
+                   <img src="Nijum Dip.jpg"height=440px width=850px>
+                   </img>
+                   <li>Sajek valley,baghaichari,
+                   Rangamati.
+                   ()</li> 
+                   <img src="Sajek Valley.jpg"height=440px width=850px> </img>
+                   <li>St. Martin Island,  Cox's Bazar-teknaf() </li> 
+                   <img src="Saint Martin.jpg"height=440px width=850px> </img>
+                   <li>Nafakhum,
+                   Thanchi,Bandarban.() </li> 
+                   <img src="Nafakhum.jpg"height=440px width=850px> </img>
+                   <li>Cox's Bazar Sea Beach() </li> 
+                   <img src="Coxs Bazar.jpg"height=440px width=850px> </img>
+                   <li>Shalbon Bihar, Mainamati, Comilla ()</li>   
+                   <img src="Shalbon Bihar.jpg"height=440px width=850px> </img>
+                   <li>kaptai Lake () </li> 
+                   <img src="Kaptai Lake.jpg"height=440px width=850px> </img>
+                   <li>Inani Beach() </li>
+                   <img src="Inani Beach.jpg"height=440px width=850px> </img>
+                   <li>Komoldoho Cascade, Sitakundo,Chittagong() </li>
+                   <img src="Komoldoho cascade.jpg"height=440px width=850px> </img>
+                   <li>Dhuppani, Bilachori,Rangamati() </li> 
+                   <img src="Dhuppani.jpg"height=440px width=850px> </img>
+                   <li>Patenga Sea Beach,Chittagong() </li> 
+                   <img src="PSBC.jpg"height=440px width=850px> </img>
+                   <li>Golden Temple,Bandarban() </li> 
+                   <img src="Golden Temple.jpg"height=440px width=850px> </img>
+                   <li> Tinpa Saiter,Royangchori() </li>
+                   <img src="Tinpa Saitar.jpg"height=440px width=850px> </img> 
+               </ul>
+       
+             
+           </div>
+     </body>
+</html>

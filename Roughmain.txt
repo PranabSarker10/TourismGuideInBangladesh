@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+     <head>
+           <title>
+                 <*************** Torist Guide in Bangladesh ****************>
+           </title>
+                           <link rel="stylesheet" type="text/css" href="stylenew.css"> 
+		   <style>
+			body {
+				background: url("images/bd.jpg");
+				width: 95%;
+				height:90%;
+				background-size: cover;
+                margin: top;
+				}
+               .T{
+                   margin-left: 450px;
+                   color: aqua;
+                }
+               #B{
+                  background: url("images/tourist-spots11.jpg");
+                  margin-top: 210px;
+                 
+                  height: 220px;
+                  width: 220px;
+                  border-radius: 50%;
+                  border: 1px solid red;
+                }
+               
+               #search{
+                  
+                  margin-left: 1150px;
+                   
+               }
+               
+              .D{
+                  
+                  margin-left: 1150px;
+                   
+               }
+               form {
+                   
+               }
+			</style>
+     </head>
+
+     <body>  
+            <h1 class="T">***Tourist Guide in Bangladesh***</h1>
+            
+            <div class="header">
+                <h2>Register</h2>
+            </div>
+
+         
+            <form  method = "post" action = "register.php">
+                <!--  
+                <div>
+                       <select>
+                             <option>ADMIN</option>
+                             <option>VOLANTEER</option>
+                      </select>
+                  </div>
+                 -->
+                  <div class="input-group">  
+                      <input type = "text" autofocus placeholder = "Name" >
+                  </div>
+                   
+                  <div class="input-group">  
+                      <input type = "password" name="password_1"  placeholder = "Password">
+                  </div>      
+                  
+                  <div class="input-group">        
+                      <input type = "password" name="password_2" placeholder = "Confirm Password">
+                  </div>
+                      
+                  <div class="input-group">
+                      <input type = "text" name="email" autofocus placeholder = "Email/Gmail">
+                  </div>
+                      
+                  <div class="input-group">      
+                      <button type="submit" name="Register" class="btn">Register</button>
+                  </div>      
+
+                <!-->  
+                  <div>  
+                      <input type = "text" autofocus placeholder = "Name" required/>
+                      <br>
+                  </div>
+                   
+                  <div>  
+                      <input type = "password" placeholder = "Password" required/>
+                      <br>
+                  </div>      
+                  
+                  <div>          
+                      <input type = "password" placeholder = "Confirm Password" required/>
+                      <br>
+                  </div>
+                      
+                  <div>
+                      <input type = "Email/Gmail" autofocus placeholder = "Email/Gmail" required/>
+                       <br>
+                  </div>
+                      
+                  <div>      
+                      <input type="submit" value="Log in">
+                  </div>
+          --> 
+            </form>                       
+            <div id="searchwrap">
+                <li id="search">
+                    <form id="search-form" name="search" action="/products" method="get">
+                        <input id="search-input" name="search" type="text"autofocus placeholder =  "Search division(s)"  required/>
+                    </form>
+                </li>
+            </div>
+            <p> Wnat to Select from option </p>
+            <from>
+                  <select class="D">
+                         <option>Dhaka</option>
+                         <option>Mymensingh</option>
+                         <option>Sylhet</option>
+                         <option>Rajshahi</option>
+                         <option>Rangpur</option>
+                         <option>Chittagong</option>
+                         <option>Khulna</option>
+                      <option>Barisal</option>
+                  <select>    
+            </from> 
+                
+            <div>     
+                <button id = "B" type="button"> <h1>Gallary</h1> </button>  
+            </div>     
+       
+      </body>     
+ 
+</html>

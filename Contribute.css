@@ -1,0 +1,45 @@
+        h2{
+                    color:mediumspringgreen;
+                }
+                h4{
+                    color:tomato;
+                }
+                
+                #reviewTable {
+                    border: 2px solid green;
+                    width: 100%;
+
+                }
+                table {
+                    border: 1px solid black;
+                    padding: 3px;
+                    color: aqua;
+                    border-spacing: 5px;
+                    height: 100%;
+                    width: 100%;
+                    table-layout: fixed;
+                }
+
+                th, td {
+                    border: 5px solid bisque;
+                        
+                    padding: 3px;
+                    color: aqua;
+                    width: auto;
+                    overflow: auto;
+                    font-family: monospace, sans-serif;
+                    font-size: 120%;
+                    max-height: 50px;
+                }
+                th{
+                    color: coral;
+                }
+                #reviewBtn {
+                    width: 100%;
+                    height: 30px;
+                }
+
+                .form-group{
+                    width: ;
+                }
+                

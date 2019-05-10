@@ -1,0 +1,26 @@
+em{color:red}
+          h1{color:navy;}
+          p{color:gray;}
+          h2{color:bisque;} 
+          h3{color:orange;}
+          .English{color:orange;}
+          #Bangla{color: yellow;}
+          div{
+                      border:5px solid #000033;
+                      margin:0;
+                      padding:2px;
+                      border-radius:12px;
+                      color:white;
+                      width:100%;
+                      background-image:url('img/about.jpg')      
+                }
+              h1{color:aquamarine}
+.add-place{
+    border:5px solid #000033;
+                      margin:0;
+                      padding:2px;
+                      border-radius:12px;
+                      color:white;
+                      width:100%;
+                      background-image:url('img/about.jpg')
+}
